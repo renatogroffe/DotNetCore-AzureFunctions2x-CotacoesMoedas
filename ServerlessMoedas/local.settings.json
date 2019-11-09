@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "BaseCotacoes": "Data Source=localhost,11433;Initial Catalog=BaseServerlessMoedas;User Id=sa;Password=DockerSql2017!;",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
